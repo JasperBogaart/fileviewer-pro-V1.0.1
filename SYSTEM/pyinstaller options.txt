@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --icon="C:\\Users\\jaspe\\Envs\\fileviewer_pro\\viewer.ico" fileviewer_pro.py
